@@ -1,2 +1,2 @@
 # Samculator
-This is a simple calculator for class project.
+A simple __*calculator*__ for __educatinal__ porpuses.
