@@ -35,7 +35,7 @@ root.title('Samculator!')
 root.resizable(width=False, height=False)
 root.configure(bg='gray15')
 
-root.iconbitmap(r'ca.icon')
+root.iconbitmap(r'icon.ico')
 
 operator=''
 input_numbers = StringVar()
